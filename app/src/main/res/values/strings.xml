@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GroupChat</string>
+    <string name="user_login">UserLogin</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="app_icon">App icon</string>
+    <string name="group_chat">Group Chat</string>
+    <string name="user_name">User Name</string>
+    <string name="type_a_message_here">Type a message here...</string>
+    <string name="send_message">Send message</string>
+</resources>
